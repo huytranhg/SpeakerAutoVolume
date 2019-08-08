@@ -131,9 +131,6 @@
     </Compile>
     <Compile Include="ViewModels\Flyouts\FlyoutLeftViewModel.cs" />
     <Compile Include="ViewModels\Flyouts\FlyoutRightViewModel.cs" />
-    <Compile Include="Views\Flyouts\FlyoutRightView.xaml.cs">
-      <DependentUpon>FlyoutRightView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Views\ShellView.xaml.cs">
       <DependentUpon>ShellView.xaml</DependentUpon>
     </Compile>
