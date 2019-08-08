@@ -23,7 +23,7 @@ SpeakerAutoVolume's built can be downloaded from this link: https://1drv.ms/u/s!
 
 - SpeakerAutoVolume is designed for personal use only.
 - It hasn't been tested under extreme conditions.
-- Time range config is stored in SpeakerAutoVolumeDatabase.db file, this file can be opened by using DB Browser for SQLite https://sqlitebrowser.org/
+- Time range configs are stored in SpeakerAutoVolumeDatabase.db file, this file can be opened by using DB Browser for SQLite https://sqlitebrowser.org/
 	
 ***Source Code***
 - Source code of this program can be found at github: https://github.com/huytranhg/SpeakerAutoVolume
