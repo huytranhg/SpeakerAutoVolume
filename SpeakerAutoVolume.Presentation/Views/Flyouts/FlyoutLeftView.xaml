@@ -4,6 +4,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:cal="http://www.caliburnproject.org"
+             xmlns:p="clr-namespace:SpeakerAutoVolume.Presentation.Properties"
              d:DesignHeight="256"
              d:DesignWidth="256"
              mc:Ignorable="d">
@@ -12,7 +13,7 @@
         <TextBlock Text="{Binding TextFlyout}" />
         <Button cal:Message.Attach="[Event Click] = [Action ActionConfirmDeleteSchedule()]"
                 Style="{StaticResource FlatButton}"
-                Content="Confirm"
+                Content="{x:Static p:Resources.Confirm}"
                 FontSize="15"
                 BorderThickness="0"
                 Width="128"
