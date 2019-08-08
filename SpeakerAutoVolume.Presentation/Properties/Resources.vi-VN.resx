@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Confirm" xml:space="preserve">
+    <value>Xác nhận</value>
+  </data>
   <data name="DeleteMessageLeft" xml:space="preserve">
     <value>Ờmmm, xóa</value>
   </data>
@@ -128,6 +131,9 @@
   </data>
   <data name="MinimizedToTray" xml:space="preserve">
     <value>SpeakerAutoVolume đã được thu nhỏ xuống khay hệ thống</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>Phải</value>
   </data>
   <data name="Schedule" xml:space="preserve">
     <value>Lịch</value>
@@ -142,7 +148,7 @@
     <value>Khởi động cùng Windows</value>
   </data>
   <data name="StubbornMode" xml:space="preserve">
-    <value>Chế Độ Duy Trì</value>
+    <value>Chế độ duy trì</value>
   </data>
   <data name="TimeOverlap" xml:space="preserve">
     <value>&lt;--Trùng thời gian--&gt;</value>

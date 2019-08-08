@@ -61,6 +61,15 @@ namespace SpeakerAutoVolume.Presentation.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Confirm.
+        /// </summary>
+        public static string Confirm {
+            get {
+                return ResourceManager.GetString("Confirm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ummm, delete.
         /// </summary>
         public static string DeleteMessageLeft {
@@ -103,6 +112,15 @@ namespace SpeakerAutoVolume.Presentation.Properties {
         public static string MinimizedToTray {
             get {
                 return ResourceManager.GetString("MinimizedToTray", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to OK.
+        /// </summary>
+        public static string OK {
+            get {
+                return ResourceManager.GetString("OK", resourceCulture);
             }
         }
         
