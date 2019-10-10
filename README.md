@@ -1,9 +1,9 @@
 # SpeakerAutoVolume
 SpeakerAutoVolume Application
 
-SpeakerAutoVolume's built can be downloaded from this link: https://1drv.ms/u/s!ApwxfKUilsg4b0eAs2LzYulPsa8
+SpeakerAutoVolume's built can be downloaded from this link: 
 
-MD5 checksum: c2cb41dff3ea5a855f26e7de84107b42
+MD5 checksum: 
 
 ***Prerequisites***
 - SpeakerAutoVolume can be run on Windows 7 or higher version of Windows OS.
